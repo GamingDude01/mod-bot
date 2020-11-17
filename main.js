@@ -2,7 +2,6 @@ const Discord = require('discord.js');
 const{ play, stop} = require('./commands');
 
 const bot = new Discord.Client();
-bot.login('NzcwOTc3MjA5OTQ2OTk2NzQ2.X5laeg.2iymfHal74r3DOgPH5yztN-hq1A');
 
 const prefix = '-';
 
@@ -40,4 +39,4 @@ function getCommandArgs(prefix,content) {
     .slice(1);
 }
 
-bot.login(process.env.token);
+bot.login(process.env.'NzcwOTc3MjA5OTQ2OTk2NzQ2.X5laeg.2iymfHal74r3DOgPH5yztN-hq1A');
