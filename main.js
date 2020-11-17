@@ -39,4 +39,4 @@ function getCommandArgs(prefix,content) {
     .slice(1);
 }
 
-bot.login(process.env.'NzcwOTc3MjA5OTQ2OTk2NzQ2.X5laeg.2iymfHal74r3DOgPH5yztN-hq1A');
+bot.login('NzcwOTc3MjA5OTQ2OTk2NzQ2.X5laeg.2iymfHal74r3DOgPH5yztN-hq1A');
